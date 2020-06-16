@@ -11,7 +11,7 @@
 </h2>
 
 ## 📚   Sobre
-------------
+
 Repositório dedicado a resoluções de todos os exercícios propostos no curso de Lógica de Programação Essencial, matéria introdutória do **BootCamp Global Fullstack Developer da Digital Innovation One**, ministrada pelo Professor e Desenvolvedor Denilson Bonatti, em junho de 2020.
 
 A partir das aula básica, solucionei os desafios e acrescentei novas funções.
@@ -20,14 +20,14 @@ Para ter acesso a este conteúdo, acesse: https://web.digitalinnovation.one/
 Para apoiar os desenvolvedores, acesse: http://lite.acad.univali.br/portugol/
 
 ## 🚀   Tecnologias Utilizadas
-------------
+
 O projeto foi desenvolvido a partir da tecnologia:
 
 - [Portugol]("http://lite.acad.univali.br/portugol/")
 
 
 ## 📚   About
-------------
+
 *Dedicated repository to solving all the exercises proposed in Essential Programming Logic course, introductory subject of **Digital Innovation One's BootCamp, Global Fullstack Developer**, taught by Professor and Developer Denilson Bonatti, in June 2020.*
 
 *From the basic classes, I solved the challenges and added new functions.*
@@ -36,7 +36,7 @@ O projeto foi desenvolvido a partir da tecnologia:
 *To support developers, visit: http://lite.acad.univali.br/portugol/*
 
 ## 🚀   Technologies Used:
-------------
+
 *The project was developed based on technology*
 
 - *[Portugol]("http://lite.acad.univali.br/portugol/")*
