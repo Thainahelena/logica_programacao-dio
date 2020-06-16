@@ -10,7 +10,7 @@
     <a href="https://www.facebook.com/digitalinnovationone" target="_blank"><img class="link" src="https://i.imgur.com/s9wDAAI.png?1"></a> <a href="https://www.youtube.com/results?search_query=digital+innovation+one" target="_blank"><img class="link" src="https://i.imgur.com/zG40AZC.png?1"></a> <a href="https://twitter.com/dio4tech" target="_blank"><img class="link" src="https://i.imgur.com/0Xfla8g.png?1"></a> <a href="https://web.digitalinnovation.one/" target="_blank"><img class="link" src="https://i.imgur.com/skUash9.png?1"></a>
 </h2>
 
-## 📚 Sobre
+## 📚  Sobre
 ------------
 Repositório dedicado a resoluções de todos os exercícios propostos no curso de Lógica de Programação Essencial, matéria introdutória do **BootCamp Global Fullstack Developer da Digital Innovation One**, ministrada pelo Professor e Desenvolvedor Denilson Bonatti, em junho de 2020.
 
@@ -19,14 +19,14 @@ A partir das aula básica, solucionei os desafios e acrescentei novas funções.
 Para ter acesso a este conteúdo, acesse: https://web.digitalinnovation.one/                                   
 Para apoiar os desenvolvedores, acesse: http://lite.acad.univali.br/portugol/
 
-## 🚀 Tecnologias Utilizadas
+## 🚀  Tecnologias Utilizadas
 ------------
 O projeto foi desenvolvido a partir da tecnologia:
 
 - [Portugol]("http://lite.acad.univali.br/portugol/")
 
 
-## 📚 About
+## 📚  About
 ------------
 *Dedicated repository to solving all the exercises proposed in Essential Programming Logic course, introductory subject of **Digital Innovation One's BootCamp, Global Fullstack Developer**, taught by Professor and Developer Denilson Bonatti, in June 2020.*
 
@@ -35,7 +35,7 @@ O projeto foi desenvolvido a partir da tecnologia:
 *To access this content, visit: https://web.digitalinnovation.one/*                                  
 *To support developers, visit: http://lite.acad.univali.br/portugol/*
 
-## 🚀 Technologies Used:
+## 🚀  Technologies Used:
 ------------
 *The project was developed based on technology*
 
